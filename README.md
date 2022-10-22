@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Twitter Homepage clone
+# I am tring to clone twitter home page . i used htm css javascript and react. in twitter home page there is 3 sides such as left side middile side and right side and i create functional navbar using react
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
